@@ -1,4 +1,4 @@
-
+a
 
 setlocal
 
@@ -8,6 +8,6 @@ exit /b %ERRORLEVEL%
 
 
 :jaswanth
-set "%~1=1000"
+set "%~1=10000"
 exit -/B 0
 
